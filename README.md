@@ -7,7 +7,7 @@ Software Developer Intern
 Insightful full-stack developer student with research and industry experience seeks an internship preferably focused on full-stack development within the Cincinnati/NKY area or remotely.
 
 * 🌍  I'm based in Cincinnati, OH
-* 🖥️  See my portfolio at [E-portfolio](http://jasoncao-dev.github.io/e-portfolio/Portfolio_TrungCao.pdf)
+* 🖥️  See my portfolio at [E-portfolio](http://jasoncao.dev)
 * ✉️  You can contact me at [CAOT1@nku.edu](mailto:CAOT1@nku.edu)
 * 🧠  I'm learning Mobile Development with Swift & SwiftUI
 * 🤝  I'm open to collaborating on developing Web Application
